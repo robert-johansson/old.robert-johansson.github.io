@@ -47,7 +47,7 @@ Yes, the goal is challenging enough - to say the least! I make a note about deve
 - Stay committed by using visualization techniques to imagine how your life will look once you've achieved your goal.
 - Create a treasure map to remind yourself why you should work hard. Visual representations of your goal can help you stay committed, even when the going gets tough.
 
-This kind of visualization technique is something that I have found very powerful previously. I will make a note about using that technique every day. 
+This kind of visualization technique is something that I have found very powerful previously. I will make a note about using that technique every day. I have also created the below mindmap to visually represent the two paths that I will follow through this work. Each node represents individual chapters of the thesis. I generally expect myself to work on Path 2 after Path 1, but I also expect to work somewhat in parallel.
 
 ![Flowchart]({{ site.url }}/images/thesis_flowchart.png)
 
@@ -59,6 +59,7 @@ This kind of visualization technique is something that I have found very powerfu
 - Use technology to track and measure your progress. Apps like Lift are a good place to start.
 - Measure progress by breaking difficult or large goals down into smaller chunks, and seek feedback when you reach each milestone.
 
+I will use Fridays to analyze progress and accomplishments, and write about it in the blog posts. I will ask for feedback and help needed from friends and colleagues. I will keep track of the number of pages written to measure progress. 
 
 
 **5. Task complexity**
@@ -66,6 +67,9 @@ This kind of visualization technique is something that I have found very powerfu
 - Give yourself plenty of time to accomplish complex goals. Set deadlines that apply an appropriate amount of pressure, while still being achievable.
 - If you start to feel stressed about meeting your goals, they might be too complex or unrealistic. Reassess both of these areas and modify your goals if necessary.
 - Break large, complex goals down into smaller sub-goals. This will stop you feeling overwhelmed, and it will make it easier to stay motivated.   
+
+I notice that this plan might be somewhat unrealistic. Writing a complete thesis in 42 days is a lot. I also plan to do a lot of meditation and physical exercise during the next 42 days, and I won't do anything that doesn't make me healthier. One important thing about this though. This challenge is pragmatic given the 42 days. The whole point of it is to write a draft, within that time limit. I am prepared to lower my ambition to make the project fit within these limits. I promise myself to do this challenge in a way that is **fun, healthy, resulting in a minimum viable product**.
+
 
 ## Overall timeplan
 
