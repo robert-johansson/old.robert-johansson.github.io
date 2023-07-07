@@ -40,7 +40,7 @@ My personal mission statement is **My goal is to finish a draft of my PhD thesis
 - Identify ways that you can reward yourself when you make progress. Incremental rewards for reaching specific milestones will motivate you to work through challenging tasks.
 - Before taking on a major goal, research it thoroughly. This will help you be realistic.
 
-Yes, the goal is challenging enough - to say the least! I make a note about developing self-discipline. Regarding specific milestones 
+Yes, the goal is challenging enough - to say the least! I make a note about developing self-discipline. Regarding specific milestones, each of the 7 chapters that I have planned (see bottom of this page, and in the PDF draft)
 
 **3. Commitment**
 
@@ -65,27 +65,27 @@ Yes, the goal is challenging enough - to say the least! I make a note about deve
 
 ## Overall timeplan
 
-### Week starting with July 3rd
+**Week starting with July 3rd**
 - Write chapter on operant conditioning
 
-### Week starting with July 10th
+**Week starting with July 10th**
 - Write chapter about generalized identity matching
 - Write chapter about stimulus equivalence
 
-### Week starting with July 17th
+**Week starting with July 17th**
 - Write chapter about generalized identity matching
 - Write chapter about stimulus equivalence
 
-### Week starting with July 24th
+**Week starting with July 24th**
 - Write chapter about stimulus equivalence
 
-### Week starting with July 31st
+**Week starting with July 31st**
 - Write chapter about Arbitrarily Applicable Relational Responding
 - Write Introduction, Background, Discussion, etc
 
-### Week starting with August 7th
+**Week starting with August 7th**
 - Write chapter about Arbitrarily Applicable Relational Responding
 - Write Introduction, Background, Discussion, etc
 
-### Week starting with August 14th
+**Week starting with August 14th**
 - Finish whatever is left
