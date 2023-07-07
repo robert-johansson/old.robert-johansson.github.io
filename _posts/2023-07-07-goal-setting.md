@@ -9,9 +9,9 @@ My purpose of writing this blog is to help me achieve my goal, which is to have 
 
 In this post, I will reflect on the goal that I have set. What I write below is inspired by Locke's Goal-Setting Theory, as described on the [MindTools website](https://www.mindtools.com/azazlu3/lockes-goal-setting-theory).
 
-The website recommends goals to be set to be SMART: Specific, Measurable, Attainable, Relevant, and Time-bound.
+The website recommends goals to be set to be **SMART: Specific, Measurable, Attainable, Relevant, and Time-bound**.
 
-My specific goal is
+My **specific goal** is
 
 > Have a finished draft of my Computer Science PhD thesis on August 18th, 2023
 
