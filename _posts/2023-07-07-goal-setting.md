@@ -40,12 +40,16 @@ My personal mission statement is **My goal is to finish a draft of my PhD thesis
 - Identify ways that you can reward yourself when you make progress. Incremental rewards for reaching specific milestones will motivate you to work through challenging tasks.
 - Before taking on a major goal, research it thoroughly. This will help you be realistic.
 
-Yes, the goal is challenging enough - to say the least! I make a note about developing self-discipline. Regarding specific milestones, each of the 7 chapters that I have planned (see bottom of this page, and in the PDF draft)
+Yes, the goal is challenging enough - to say the least! I make a note about developing self-discipline. Regarding specific milestones, each of the 7 chapters that I have planned (see bottom of this page, and in the PDF draft). Regarding rewards I will remember to celebrate with family and friends, while I make progress. Having planned the writing of this thesis for more than a year, I can certify that I have researched the task thoroughly.
 
 **3. Commitment**
 
 - Stay committed by using visualization techniques to imagine how your life will look once you've achieved your goal.
 - Create a treasure map to remind yourself why you should work hard. Visual representations of your goal can help you stay committed, even when the going gets tough.
+
+This kind of visualization technique is something that I have found very powerful previously. I will make a note about using that technique every day. 
+
+![Flowchart]({{ site.url }}/images/thesis_flowchart.png)
 
 
 **4. Feedback**
