@@ -15,7 +15,7 @@ My specific goal is
 
 > Have a finished draft of my Computer Science PhD thesis on August 18th, 2023
 
-
+## Five Principles from Goal-Setting Theory
 
 1. Clarity.
 2. Challenge.
@@ -23,6 +23,7 @@ My specific goal is
 4. Feedback.
 5. Task complexity.
 
+The below bullet points about each principle are taken from the [MindTools website](https://www.mindtools.com/azazlu3/lockes-goal-setting-theory). Under each set of bullet points, I make comments.
 
 **1. Clarity**
 
@@ -30,8 +31,7 @@ My specific goal is
 - Think about how you'll measure your success toward this goal. What specific metrics will you use?
 - Once you've set your goal, examine how it makes you feel. Are you excited? Does the challenge motivate you? If you don't feel strongly about the goal, you might need to clarify it or change it entirely.
 
-
-
+My personal mission statement is **My goal is to finish a draft of my PhD thesis before August 18th 2023**. I will measure the progress using **number of written pages**, measured by **the total number of pages in the current draft minus 27** (it is 27 pages as of Day 0). I feel **very excited** about this goal!
 
 **2. Challenge**
 
@@ -39,6 +39,7 @@ My specific goal is
 - Develop self-discipline, so that you have the persistence to work through problems.
 - Identify ways that you can reward yourself when you make progress. Incremental rewards for reaching specific milestones will motivate you to work through challenging tasks.
 - Before taking on a major goal, research it thoroughly. This will help you be realistic.
+
 
 
 **3. Commitment**
