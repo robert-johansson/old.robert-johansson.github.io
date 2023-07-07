@@ -21,7 +21,8 @@ title: "42 days"
 description: "Writing a PhD thesis in Computer Science in 42 days"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+# logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/yinyang.png"
 date_format: "%Y-%m-%d"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
