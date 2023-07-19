@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Goal setting"
-date:   2023-07-07 12:40:00 +0200
+date:   2023-07-18 09:12:00 +0200
 share:  false
 ---
 
-My purpose of writing this blog is to help me achieve my goal, which is to have finished a draft of my PhD thesis in Computer Science. I will aim to have it finished in 42 days, starting today on July 7th 2023.
+My purpose of writing this blog is to help me achieve my goal, which is to have finished a draft of my PhD thesis in Computer Science. I will aim to have it finished in 31 days, starting today on July 18th 2023.
 
 In this post, I will reflect on the goal that I have set. What I write below is inspired by Locke's Goal-Setting Theory, as described on the [MindTools website](https://www.mindtools.com/azazlu3/lockes-goal-setting-theory).
 
@@ -49,7 +49,7 @@ Yes, the goal is challenging enough - to say the least! I make a note about deve
 
 This kind of visualization technique is something that I have found very powerful previously. I will make a note about using that technique every day. I have also created the below mindmap to visually represent the two paths that I will follow through this work. Each node represents individual chapters of the thesis. I generally expect myself to work on Path 2 after Path 1, but I also expect to work somewhat in parallel.
 
-![Flowchart]({{ site.url }}/images/thesis_flowchart.png)
+![Flowchart]({{ site.url }}/images/thesis_flowchart2.png)
 
 
 **4. Feedback**
@@ -68,32 +68,25 @@ I will use Fridays to analyze progress and accomplishments, and write about it i
 - If you start to feel stressed about meeting your goals, they might be too complex or unrealistic. Reassess both of these areas and modify your goals if necessary.
 - Break large, complex goals down into smaller sub-goals. This will stop you feeling overwhelmed, and it will make it easier to stay motivated.   
 
-I notice that this plan might be somewhat unrealistic. Writing a complete thesis in 42 days is a lot. I also plan to do a lot of meditation and physical exercise during the next 42 days, and I won't do anything that doesn't make me healthier. One important thing about this though. This challenge is pragmatic given the 42 days. The whole point of it is to write a draft, within that time limit. I am prepared to lower my ambition to make the project fit within these limits. I promise myself to do this challenge in a way that is **fun, healthy, resulting in a minimum viable product**.
+I notice that this plan might be somewhat unrealistic. Writing a complete thesis in 31 days is a lot. I also plan to do a lot of meditation and physical exercise during the next 31 days, and I won't do anything that doesn't make me healthier. One important thing about this though. This challenge is pragmatic given the 31 days. The whole point of it is to write a draft, within that time limit. I am prepared to lower my ambition to make the project fit within these limits. I promise myself to do this challenge in a way that is **fun, healthy, resulting in a minimum viable product**.
 
 
 ## Overall timeplan
 
-**Week starting with July 3rd**
+**Week starting with July 17th**
+- Write Introduction, Background, Discussion, etc
 - Write chapter on operant conditioning
 
-**Week starting with July 10th**
-- Write chapter about generalized identity matching
-- Write chapter about stimulus equivalence
-
-**Week starting with July 17th**
-- Write chapter about generalized identity matching
-- Write chapter about stimulus equivalence
-
 **Week starting with July 24th**
-- Write chapter about stimulus equivalence
+- Write chapter about generalized identity matching
+- Finish first draft
 
 **Week starting with July 31st**
-- Write chapter about Arbitrarily Applicable Relational Responding
-- Write Introduction, Background, Discussion, etc
+- Rewrite Introduction, Background, Discussion, etc
+- Write chapter about Symmetry and Stimulus equivalence
 
 **Week starting with August 7th**
 - Write chapter about Arbitrarily Applicable Relational Responding
-- Write Introduction, Background, Discussion, etc
 
 **Week starting with August 14th**
 - Finish whatever is left
