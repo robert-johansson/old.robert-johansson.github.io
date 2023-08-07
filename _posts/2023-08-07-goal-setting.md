@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Goal setting"
-date:   2023-07-18 09:12:00 +0200
+date:   2023-08-07 09:12:00 +0200
 share:  false
 ---
 
-My purpose of writing this blog is to help me achieve my goal, which is to have finished a draft of my PhD thesis in Computer Science. I will aim to have it finished in 31 days, starting today on July 18th 2023.
+My purpose of writing this blog is to help me achieve my goal, which is to have finished a draft of my PhD thesis in Computer Science. I will aim to have it finished in 31 days, starting today on August 7th 2023.
 
 In this post, I will reflect on the goal that I have set. What I write below is inspired by Locke's Goal-Setting Theory, as described on the [MindTools website](https://www.mindtools.com/azazlu3/lockes-goal-setting-theory).
 
@@ -13,7 +13,7 @@ The website recommends goals to be set to be **SMART: Specific, Measurable, Atta
 
 My **specific goal** is
 
-> Have a finished draft of my Computer Science PhD thesis on August 18th, 2023
+> Have a finished draft of my Computer Science PhD thesis on September 6th, 2023
 
 ## Five Principles from Goal-Setting Theory
 
@@ -31,7 +31,7 @@ The below bullet points about each principle are taken from the [MindTools websi
 - Think about how you'll measure your success toward this goal. What specific metrics will you use?
 - Once you've set your goal, examine how it makes you feel. Are you excited? Does the challenge motivate you? If you don't feel strongly about the goal, you might need to clarify it or change it entirely.
 
-My personal mission statement is **My goal is to finish a draft of my PhD thesis before August 18th 2023**. I will measure the progress using **number of written pages**, measured by **the total number of pages in the current draft minus 27** (it is 27 pages as of Day 0). I feel **very excited** about this goal!
+My personal mission statement is **My goal is to finish a draft of my PhD thesis on September 6th 2023**. I will measure the progress using **number of written pages**, measured by **the total number of pages in the current draft minus 27** (it is 27 pages as of Day 0). I feel **very excited** about this goal!
 
 **2. Challenge**
 
@@ -47,9 +47,9 @@ Yes, the goal is challenging enough - to say the least! I make a note about deve
 - Stay committed by using visualization techniques to imagine how your life will look once you've achieved your goal.
 - Create a treasure map to remind yourself why you should work hard. Visual representations of your goal can help you stay committed, even when the going gets tough.
 
-This kind of visualization technique is something that I have found very powerful previously. I will make a note about using that technique every day. I have also created the below mindmap to visually represent the two paths that I will follow through this work. Each node represents individual chapters of the thesis. I generally expect myself to work on Path 2 after Path 1, but I also expect to work somewhat in parallel.
+This kind of visualization technique is something that I have found very powerful previously. I will make a note about using that technique every day. I have also created the below mindmap to visually represent the weeks that I will work on this project. With that said, I also expect to work somewhat in parallel.
 
-![Flowchart]({{ site.url }}/images/thesis_flowchart2.png)
+![Flowchart]({{ site.url }}/images/thesis_flowchart3.png)
 
 
 **4. Feedback**
@@ -73,20 +73,25 @@ I notice that this plan might be somewhat unrealistic. Writing a complete thesis
 
 ## Overall timeplan
 
-**Week starting with July 17th**
-- Write Introduction, Background, Discussion, etc
-- Write chapter on operant conditioning
+**Week starting with August 7**
+- Write Introduction
+- Write Background and Preliminaries
+- Write chapter on Conditional discriminations
 
-**Week starting with July 24th**
-- Write chapter about generalized identity matching
+**Week starting with August 14**
+- Write Introduction
+- Write Background and Preliminaries
+- Write chapter on Conditional discriminations
+- Write chapter about Generalized Identity Matching
+
+**Week starting with August 21**
+- Write chapter about Symmetry
+- Write chapter about Stimulus equivalence
+
+**Week starting with August 28**
+- Write chapter about Symmetry
+- Write chapter about Stimulus equivalence
+
+**Week starting with September 4**
+- Write Discussion
 - Finish first draft
-
-**Week starting with July 31st**
-- Rewrite Introduction, Background, Discussion, etc
-- Write chapter about Symmetry and Stimulus equivalence
-
-**Week starting with August 7th**
-- Write chapter about Arbitrarily Applicable Relational Responding
-
-**Week starting with August 14th**
-- Finish whatever is left
