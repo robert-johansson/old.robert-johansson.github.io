@@ -59,6 +59,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-scholar
+  - jekyll-github-metadata
 
 author:
   name   : "Gemma Danks"
