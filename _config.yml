@@ -77,43 +77,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-scholar
-
-author:
-  name   : "Gemma Danks"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Making sense of star stuff"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.gemmadanks.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gemmadanks"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gemmadanks"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gemmadanks/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gbdanks"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gemmadanks"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gemmadanks"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gemmadanks/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gbdanks"
-
+  
+# Front Matter Defaults
 defaults:
   # Posts defaults
   - scope:
@@ -142,6 +107,8 @@ footer_links: false
 
 # Jekyll Scholar
 scholar:
-  style: current-opinion
-  #bibliography_list_tag: 'div'
-  #bibliography_item_tag: 'p'
+  style: apa
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib 
+
